@@ -1,0 +1,15 @@
+body {
+	background-color: #ddd;
+	font-family: helvetica, arial, sans-serif;
+}
+h1 {
+	color: white;
+	text-transform: uppercase;
+	margin-bottom:0px;
+	background-color: black;
+	padding:20px;
+}
+p {
+	margin-top:0;
+}
+
