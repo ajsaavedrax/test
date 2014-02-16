@@ -38,3 +38,9 @@ ul, ol {
 p, h1, h2, h3, h4, ul, ol {
 	margin-bottom: 20px;
 }
+.author {
+	font-style: italic;	
+}
+.date {
+	color:#999;
+	margin-left: 10px;
